@@ -1,6 +1,6 @@
 # Face_Detection
 
-This is a program made in c++ language about the detection of faces in jpeg images. It is based on the algorithm which can be found here. http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=611173&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel4%2F76%2F13348%2F00611173
+This is a program made in c++ language about the detection of faces in jpeg images. It is based on the algorithm which can be found here. http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=611173&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel4%2F76%2F13348%2F00611173 <br/>
 The stages of the algorithm are: 
 1) Training: Provide the algorithm with parts of the human face so it can be trained according to their colour
 2)Jpeg images are then given in order for the facial parts to be recognized ONLY depending on their colour
