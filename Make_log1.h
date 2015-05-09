@@ -1,0 +1,1 @@
+void Make_log1(int frame_counter,std::vector <std::vector <int> > pos,int pos_counter);
